@@ -1,7 +1,8 @@
 # Framework Scrum - Fluxograma e Documentação
 
 ## Fluxograma do Processo Scrum
-![Fluxograma Scrum](fluxograma-scrum.png)
+Cópia de [Template] Desafio de Projeto - SCRUM.png
+
 
 ## Estrutura do Framework
 - **Eventos**: Sprint, Planning, Daily, Review, Retrospective.  
